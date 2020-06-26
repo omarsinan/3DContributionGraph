@@ -1,5 +1,5 @@
 # 3DContributionGraph
-A 3D version of your GitHub contribution history graph
+A 3D version of your GitHub contribution history graph. Made with [p5.js](https://p5js.org/)
 
 Inspired by [@jasonlong](https://github.com/jasonlong)'s chrome extension "Isometric Contributions" (https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien)
 
